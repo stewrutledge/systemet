@@ -1,0 +1,5 @@
+Perl script for fetching the latest sortiment file from systemet bolaget and coverting it to CSV.
+
+This was originally part of some idea I had about making a light weight site for viewing only systemetbolagets sortiment (or, a fun programming excersize), so there are a few things here that are somewhatpersonalized
+
+The intentionen was to populate a mysql database with the info, which it did just fine with. The issue was with the actual design of the site, though I hope to revisit this project to learn a little bit more about actual web design.
